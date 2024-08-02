@@ -60,7 +60,7 @@ Usage -
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/heart-disease-diagnostic-analysis.git
+https://github.com/Revati07/Heart-Disease-Diagnostic-Analysis/tree/main
 Navigate to the project directory:
 bash
 Copy code
